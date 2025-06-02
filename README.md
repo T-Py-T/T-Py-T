@@ -1,14 +1,17 @@
-## Hi there 👋
+## Hi there👋
 
-### About Me 
+### About Me
 
 - 🔭 **I’m currently working on:**
   - Linux - SBC/Rasberry Pi's everywhere.....
   - NixOS - Attempting to Nixify what I can
-  - Kuberentes(HA) / Proxmox Home Lab
+  - Kuberentes (Talos) [HomeLab](https://github.com/T-Py-T/homelab), testing new packages at home.
+  - Proxmox Home Lab for other virtualization projects
+  - Looking for local options for cloud resources (Like OpenEBS, etc.)
+
 - 🌱 **I’m currently learning:**
-  - Production ArgoCD vs Flux
-  - Production Terraform vs Bicep
+  - Production migration from FluxCD to ArgoCD and Kargo
+  - Production Terraform vs Crossplane
 - 💬 **Ask me about:**  Linux, NixOS, Devops, Cloud
 
 ### 🛠️ Tech Stack
