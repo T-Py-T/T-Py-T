@@ -2,17 +2,47 @@
 
 ### About Me
 
-- 🔭 **I’m currently working on:**
-  - Linux - SBC/Rasberry Pi's everywhere.....
-  - NixOS - Attempting to Nixify what I can
-  - Kuberentes (Talos) [HomeLab](https://github.com/T-Py-T/homelab), testing new packages at home.
-  - Proxmox Home Lab for other virtualization projects
-  - Looking for local options for cloud resources (Like OpenEBS, etc.)
+---
 
-- 🌱 **I’m currently learning:**
-  - Production migration from FluxCD to ArgoCD and Kargo
-  - Production Terraform vs Crossplane
-- 💬 **Ask me about:**  Linux, NixOS, Devops, Cloud
+### 🔭 **Currently Working On**
+
+- **GitOps Tooling Migration**: FluxCD → ArgoCD + Kargo for advanced deployment strategies
+- **IaC Evolution**: Terraform vs Crossplane for Kubernetes-native infrastructure
+- **NixOS Dev Environments**: Building reproducible development machines with Nix for consistent tooling
+- **Platform Modernization**: Testing Staged layers of base services (policy, secrets, service mesh) onto a cluster
+
+---
+
+### 🌱 **Learning & Growth**
+
+**Current Focus Areas:**
+
+- **Platform Engineering**: Building developer-friendly abstractions over complex infrastructure
+- **Declarative Systems**: Using NixOS and Nix flakes for reproducible development environments
+- **Cloud Economics**: Cost optimization and resource efficiency in cloud-native environments
+
+---
+
+### 🏠 **Featured Project: Production-Grade Homelab**
+
+**[🔗 Multi-Cluster GitOps Platform](https://github.com/T-Py-T/homelab)**
+
+*💡 "The best way to predict the future is to build it"* - My homelab isn't just a hobby, it's how I stay up to date with current technology trends.
+
+- **Enterprise Patterns**: Multi-repo GitOps, secrets management, policy enforcement
+- **Production Ready**: HA clusters, automated backups, monitoring, disaster recovery
+- **Cost Effective**: $2K hardware budget delivering enterprise capabilities
+- **Real-World Skills**: Same tools and patterns used in large production environments
+
+**Architecture Highlights:**
+
+- 🎯 **GitOps**: ArgoCD orchestrating 4 repositories with app-of-apps patterns
+- 🔐 **Security**: HashiCorp Vault, Keycloak SSO, Kyverno policies
+- 📊 **Observability**: Prometheus, Grafana, Loki with custom dashboards
+- 🚀 **Multi-Cluster**: Dev/Staging/Prod separation with technology diversity testing
+- 🏠 **Personal Learning Lab**: Proving enterprise patterns work at any scale
+
+---
 
 ### 🛠️ Tech Stack
 
