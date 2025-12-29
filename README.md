@@ -1,10 +1,10 @@
-## Hi there👋
+## Hi there
 
 ### About Me
 
 ---
 
-### 🔭 **Currently Working On**
+### Currently Working On
 
 - **GitOps Tooling Migration**: FluxCD → ArgoCD + Kargo for advanced deployment strategies
 - **IaC Evolution**: Terraform vs Crossplane for Kubernetes-native infrastructure
@@ -13,7 +13,7 @@
 
 ---
 
-### 🌱 **Learning & Growth**
+### Learning & Growth
 
 **Current Focus Areas:**
 
@@ -23,32 +23,31 @@
 
 ---
 
-### 🏠 **Featured Project: Production-Grade Homelab**
+### Featured Projects
 
-**[🔗 Multi-Cluster GitOps Platform](https://github.com/T-Py-T/homelab)**
-
-*💡 "The best way to predict the future is to build it"* - My homelab isn't just a hobby, it's how I stay up to date with current technology trends.
-
+**[Production-Grade Homelab](https://github.com/T-Py-T/homelab)**
 - **Enterprise Patterns**: Multi-repo GitOps, secrets management, policy enforcement
 - **Production Ready**: HA clusters, automated backups, monitoring, disaster recovery
-- **Cost Effective**: $2K hardware budget delivering enterprise capabilities
-- **Real-World Skills**: Same tools and patterns used in large production environments
+- **GitOps**: ArgoCD orchestrating 4 repositories with app-of-apps pattern
 
-**Architecture Highlights:**
+**[HFT Trading Engine & App (C++ & Python)](https://github.com/T-Py-T/hft-trading-app)**
+- **Sub-millisecond Latency**: P99 order latency of 4.3ms on Kubernetes
+- **Scalable Throughput**: 5,300+ orders/sec baseline, 13,700+ with 3-way sharding
+- **Lock-free Architecture**: C++ engine designed for 100k+ orders/sec with zero allocation in critical path
+- **Cloud-Native**: Runs on Kubernetes with zero-downtime deployments, horizontal scaling via database sharding
 
-- 🎯 **GitOps**: ArgoCD orchestrating 4 repositories with app-of-apps patterns
-- 🔐 **Security**: HashiCorp Vault, Keycloak SSO, Kyverno policies
-- 📊 **Observability**: Prometheus, Grafana, Loki with custom dashboards
-- 🚀 **Multi-Cluster**: Dev/Staging/Prod separation with technology diversity testing
-- 🏠 **Personal Learning Lab**: Proving enterprise patterns work at any scale
+**[Crypto Exchange Platform (In Design)](https://github.com/T-Py-T/crypto-exchange)**
+- **Multi-asset Settlement**: Support for cross-chain atomic swaps with circuit breakers
+- **Real-time Risk Engine**: Portfolio margin calculations with sub-second exposure updates
+- **Distributed Ledger Integration**: Settlement integrity via event sourcing and event log verification
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![VB.Net](https://img.shields.io/badge/-VB.Net-512BD4?style=flat-square&logo=.NET&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-623CE4?style=flat-square&logo=Terraform&logoColor=white) ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=NixOS&logoColor=white)  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![VB.Net](https://img.shields.io/badge/-VB.Net-512BD4?style=flat-square&logo=.NET&logoColor=white) ![HCL](https://img.shields.io/badge/-HCL-623CE4?style=flat-square&logo=Terraform&logoColor=white) ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=NixOS&logoColor=white)  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 #### Tooling
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white) ![Pulumi](https://img.shields.io/badge/-Pulumi-512BD4?style=flat-square&logo=Pulumi&logoColor=white) ![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
@@ -59,7 +58,7 @@
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white)  
 -->
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
   <a href="https://github.com/T-Py-T">
