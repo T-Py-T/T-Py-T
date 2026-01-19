@@ -208,14 +208,6 @@ My current work focuses on **Zarf packages** and **UDS bundles** — enabling or
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T-Py-T&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -241,15 +233,4 @@ My current work focuses on **Zarf packages** and **UDS bundles** — enabling or
 
 <div align="center">
   <i>⚡ "In a world of mutable infrastructure, be the Nix flake." ⚡</i>
-</div>
-
----
-
-<div align="center">
-  <b>📫 Let's Connect!</b>
-  <br/><br/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/T-Py-T)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T-Py-T)
-  
 </div>
