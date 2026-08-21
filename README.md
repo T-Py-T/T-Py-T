@@ -1,31 +1,43 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Platform+Engineering+%7C+AI+Systems;Declarative+Infrastructure+%7C+Developer+Tooling" alt="Platform Engineering and AI Systems; Declarative Infrastructure and Developer Tooling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Platform+Engineering+%7C+AI+Systems;Declarative+Infrastructure+%7C+Evaluation+Tooling" alt="Platform Engineering and AI Systems; Declarative Infrastructure and Evaluation Tooling" />
 </div>
 
 # Taylor — Platform & AI Systems
 
-I build and document systems where AI workloads, platform infrastructure, and
-developer tooling meet. This profile is an evidence map: public code and
-documentation come first, and work in progress is labeled as such.
+I build systems at the boundary of AI workloads, platform infrastructure, and
+developer tooling. This profile is an evidence map: implementation and retained
+artifacts come first, and plans, private boundaries, and historical work are
+labelled explicitly.
 
-## Current focus
+## Primary public evidence
 
-- Reproducible host and service configuration with NixOS and flakes
-- Operational foundations for AI and GPU workloads in a home-lab environment
-- Clear architecture, deployment paths, and constraints for multi-service systems
-
-## Selected public work
-
-| Project | What the public repository shows | Status and evidence |
+| Project | Engineering signal | Start here |
 | --- | --- | --- |
-| [nix-homelab](https://github.com/T-Py-T/nix-homelab) | A modular NixOS homelab where machines are flake outputs and services are self-contained modules selected by host profile. | **Active / evolving.** See the [repository layout](https://github.com/T-Py-T/nix-homelab#layout), [NixOS guide](https://github.com/T-Py-T/nix-homelab/blob/main/docs/nixos.md), [GPU-node guide](https://github.com/T-Py-T/nix-homelab/blob/main/docs/dgx-spark.md), and [Mac Studio guide](https://github.com/T-Py-T/nix-homelab/blob/main/docs/macos.md). |
-| [AntsAIBot](https://github.com/T-Py-T/AntsAIBot) | A Python strategy bot repository with a local game engine, replay visualizer, benchmark tooling, and CI-backed tests. | **Public / maintained.** Inspect the [game-engine source](https://github.com/T-Py-T/AntsAIBot/tree/main/src/ants), [testing and evaluation commands](https://github.com/T-Py-T/AntsAIBot/blob/main/README.md#testing--evaluation), [CI workflow](https://github.com/T-Py-T/AntsAIBot/blob/main/.github/workflows/ci.yml), and [replay visualizer source](https://github.com/T-Py-T/AntsAIBot/tree/main/visualizer). This profile makes no benchmark outcome claim. |
+| [`nix-homelab`](https://github.com/T-Py-T/nix-homelab) | Modular NixOS services, host profiles, GPU/AI nodes, runtime-secret boundaries, flake evaluation, and a representative NixOS VM health test. | [Architecture](https://github.com/T-Py-T/nix-homelab#at-a-glance) · [NixOS operations](https://github.com/T-Py-T/nix-homelab/blob/main/docs/nixos.md) · [VM test](https://github.com/T-Py-T/nix-homelab/blob/main/tests/miniflux-grafana.nix) |
+| [`ants-strategy-agent`](https://github.com/T-Py-T/ants-strategy-agent) | A deterministic multi-agent strategy system with a local engine, sandbox, fixed opponents, replay tooling, benchmark entry points, and PR-gated tests. | [System design](https://github.com/T-Py-T/ants-strategy-agent#system-design) · [Strategy source](https://github.com/T-Py-T/ants-strategy-agent/blob/main/src/bots/bot.py) · [Evaluation contract](https://github.com/T-Py-T/ants-strategy-agent#evaluation-contract) |
+
+## Supporting public work
+
+| Project | What it contributes | Evidence boundary |
+| --- | --- | --- |
+| [`kubernetes-gitops-homelab`](https://github.com/T-Py-T/kubernetes-gitops-homelab) | Kubernetes/GitOps architecture, environment separation, reconciliation order, security boundaries, and rebuild-first recovery thinking. | Architecture case study; current cluster-specific state is private and no uptime or recovery outcome is claimed. |
+| [`starcraft2-ppo-agent`](https://github.com/T-Py-T/starcraft2-ppo-agent) | Gymnasium/PPO environment, process-safe learner-to-game IPC, Protoss action layer, and headless regression tests. | The software contract is tested; convergence and competitive gameplay still require a versioned live-game evidence bundle. |
+| [`gta5-vision-driving-agent`](https://github.com/T-Py-T/gta5-vision-driving-agent) | Historical pixel-to-action imitation-learning pipeline: screen capture, CNN experiments, nine-action encoding, and motion recovery. | Archived implementation study; no dataset, weights, benchmark, or gameplay-performance result is claimed. |
+| [`trading-platform-orchestration`](https://github.com/T-Py-T/trading-platform-orchestration) | Compose/Kubernetes integration contract, runtime inputs, probes, resource constraints, manifest tests, and operator documentation. | Component source is private, so this public repo makes no source-verifiable latency, throughput, or full-stack behavior claim. |
 
 ## How I present engineering work
 
-- Link architectural claims to public source or documentation.
-- Separate implemented behavior from plans and work in progress.
-- Attach performance claims to reproducible methodology and retained evidence.
-- Prefer concise operational guidance over broad technology inventories.
+- Link architectural and behavioral claims to public source or retained evidence.
+- Separate tested behavior from plans, private implementation, and historical work.
+- Treat evaluation as a versioned artifact: revision, environment, commands,
+  raw output, and derivation should travel together.
+- Keep automation safe by default: local checks first, GitHub Actions only as a
+  pull-request merge gate, and runtime credentials outside source control.
+- Prefer explicit operating contracts, rollback boundaries, and failure modes
+  over broad technology inventories.
 
-More public work is available in my [repository list](https://github.com/T-Py-T?tab=repositories).
+Additional product-software and agent-evaluation flagships are being prepared
+privately. They will replace supporting pins only after their public source,
+tests, recruiter-facing evidence, and safety boundaries are complete.
+
+More work is available in my [public repository list](https://github.com/T-Py-T?tab=repositories).
