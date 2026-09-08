@@ -1,3 +1,3 @@
-<!-- Inspired by https://github.com/poteto/poteto. GIF hosted by poteto/poteto. -->
+<!-- Inspired by https://github.com/poteto/poteto. nice.gif is bundled in this repository. -->
 
-<img alt="Rick Astley dancing. You came for the code; you got Rickrolled." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
+<img alt="Rick Astley dancing. You came for the code; you got Rickrolled." src="nice.gif" width="100%">
