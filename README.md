@@ -44,3 +44,7 @@ If you need Platform/SRE or AI-systems ownership with evidence — model serving
 <img alt="Rick Astley dancing. You came for the code; you got Rickrolled." src="https://github.com/T-Py-T/T-Py-T/blob/main/nice.gif?raw=true" width="100%">
 
 </details>
+
+---
+
+> Tip-cite: main `<8-char-tip>` + PR #<n>. No `READY` claim; the Steward resolves the 8-character tip against `main`.
