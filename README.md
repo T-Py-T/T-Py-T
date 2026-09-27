@@ -1,6 +1,6 @@
-# Taylor — Platform · SRE · AI systems
+# Platform · SRE · AI systems
 
-**Hire me when you need disposable developer platforms and the systems that run on them** — environments teams can spin up, inspect, steer, and throw away — plus the reliability bar to put ML and agent workloads on them without guessing.
+**Lets work together if you need disposable developer platforms and the systems that run on them** — environments teams can spin up, inspect, steer, and throw away — plus the reliability bar to put ML and agent workloads on them without guessing.
 
 I help companies stop losing weeks to snowflake clusters, opaque agent runs, and “it worked on my laptop” model serving. Twelve-plus years shipping multi-cloud Platform/SRE (EKS/AKS/GKE, GitOps, Terraform, observability, regulated hardening). Public work below is the proof you can clone tonight.
 
