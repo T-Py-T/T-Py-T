@@ -37,7 +37,7 @@ Omarchy ARM64 developer images, Talos cluster experiments, and deeper Nix labs s
 If you need Platform/SRE or AI-systems ownership with evidence — model serving, platform build-out, disposable env factories — GitHub is the source of truth for what runs. Reach out when you want that ownership on your team.
 
 <details>
-<summary>Easter egg (yes, still here)</summary>
+<summary>Easter egg</summary>
 
 <br>
 
