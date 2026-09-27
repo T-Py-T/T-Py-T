@@ -13,9 +13,9 @@ I help companies stop losing weeks to snowflake clusters, opaque agent runs, and
 
 ## Proof (open these)
 
-| Repo | Pitch proof |
+| Repo | Details |
 |---|---|
-| [Highlander](https://github.com/T-Py-T/Highlander) | **Which agent harness deserves promotion?** Controlled gauntlet with retained evidence — version-bound comparison, not vibes. |
+| [Highlander](https://github.com/T-Py-T/Highlander) | **Which agent harness deserves promotion?** Controlled gauntlet with retained evidence — version-bound comparison. |
 | [SwarmSpindle](https://github.com/T-Py-T/SwarmSpindle) | **Can you watch and steer a swarm without burning money?** Local workspace: coordination, budgets, searchable conversations, honest stop reasons. |
 | [nix-homelab](https://github.com/T-Py-T/nix-homelab) | **Reusable platform modules.** NixOS services + GPU/AI hosts with flake/VM checks and recovery evidence. |
 | [trading-platform-orchestration](https://github.com/T-Py-T/trading-platform-orchestration) | **Multi-component topology with an integration contract.** Compose/Kubernetes + operator docs and manifest tests. |
