@@ -24,11 +24,11 @@ I help companies stop losing weeks to snowflake clusters, opaque agent runs, and
 
 Also in the public tree: GitOps/delivery labs (`kubernetes-gitops-homelab`, EKS/AKS CI/CD), Talos topology, chezmoi workstations, RL→serving sandboxes. Same bar — runnable paths, licenses, topics.
 
-## What I obsess over (signal, not a hobby dump)
+## What I obsess over
 
 Local AI, AI tooling, agents, and swarms — because that’s where Platform and ML meet. I build harnesses and runtimes so teams can compare, bound, and promote agent systems the same way we treat any other production dependency.
 
-## Private labs (mention only)
+## Private labs
 
 Omarchy ARM64 developer images, Talos cluster experiments, and deeper Nix labs stay private. Same craft as the public repos — bootable platforms, agent tooling, recovery discipline — not ready for a public clone yet.
 
@@ -46,5 +46,3 @@ If you need Platform/SRE or AI-systems ownership with evidence — model serving
 </details>
 
 ---
-
-> Tip-cite: main `<8-char-tip>` + PR #<n>. No `READY` claim; the Steward resolves the 8-character tip against `main`.
