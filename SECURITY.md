@@ -1,26 +1,37 @@
 # Security policy
 
+GitHub **profile README hub** for [T-Py-T](https://github.com/T-Py-T). Portfolio narrative: [README.md](README.md). Topics, licensing, and doc index: [docs/HIREABILITY.md](docs/HIREABILITY.md). Terms: [LICENSE](LICENSE).
+
 ## Supported versions
 
-Security fixes apply to the current `main` branch of this profile README
-repository.
+Security fixes apply to the current `main` branch of **this** repository.
 
 ## Reporting a vulnerability
 
-Do not open a public issue that includes credentials or sensitive personal
-data. Prefer GitHub's private vulnerability reporting when the repository
-Security tab offers **Report a vulnerability**. If that option is unavailable,
-email [`tnt850910@aol.com`](mailto:tnt850910@aol.com) with the subject prefix
-`[SECURITY] T-Py-T` before sharing sensitive details.
+### This repository
 
-Include the affected file, expected behavior, and a minimal description of the
-concern. The maintainer aims to acknowledge valid reports within a few
-business days.
+Do not open a public issue that includes credentials or sensitive personal data. Prefer GitHub's private vulnerability reporting when the repository **Security** tab offers **Report a vulnerability**. If that option is unavailable, email [`tnt850910@aol.com`](mailto:tnt850910@aol.com) with the subject prefix `[SECURITY] T-Py-T` before sharing sensitive details.
 
-## Repository boundary
+Include the affected file, expected behavior, and a minimal description of the concern. The maintainer aims to acknowledge valid reports within a few business days.
 
-This repository exists primarily as the public GitHub profile README for
-T-Py-T. It is documentation and presentation material, not a hosted service.
+### Other T-Py-T repositories
 
-Do not commit credentials, private contact details beyond the published
-reporting channel, or secrets belonging to other repositories.
+Proof repos and labs linked from the README are separate codebases with their own issue trackers. Report a vulnerability in **that** repository—its Security tab, `SECURITY.md`, or published maintainer contact—not only through this profile hub.
+
+## Scope & boundaries
+
+This repository is documentation and presentation for the profile README, not a hosted service.
+
+Do not commit credentials, private contact details beyond the published reporting channel, or secrets belonging to other repositories.
+
+## Related docs
+
+| Doc | Role |
+|-----|------|
+| [README.md](README.md) | Primary hireability / portfolio pitch |
+| [docs/HIREABILITY.md](docs/HIREABILITY.md) | Topics, license pointer, doc index |
+| [LICENSE](LICENSE) | MIT terms for this repo |
+
+---
+
+*Tip-cite: main `e79f0293` + PR pending Steward resolve — reporting path and scope only, not a release or readiness signal.*
