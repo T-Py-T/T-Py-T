@@ -35,4 +35,4 @@ Profile README content in this repository is under the [MIT License](../LICENSE)
 
 ---
 
-*Tip-cite: main `e4ba17b` + PR #13 pending Steward resolve — index only, not a release or readiness signal.*
+*Tip-cite: main `e79f0293` + PR pending Steward resolve — index only, not a release or readiness signal.*
