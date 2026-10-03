@@ -1,6 +1,6 @@
 # Security policy
 
-GitHub **profile README hub** for [T-Py-T](https://github.com/T-Py-T). Portfolio narrative: [README.md](README.md). Topics, licensing, and doc index: [docs/HIREABILITY.md](docs/HIREABILITY.md). Terms: [LICENSE](LICENSE).
+GitHub **profile README hub** for [T-Py-T](https://github.com/T-Py-T). Portfolio narrative: [README.md](README.md). Terms: [LICENSE](LICENSE).
 
 ## Supported versions
 
@@ -29,7 +29,6 @@ Do not commit credentials, private contact details beyond the published reportin
 | Doc | Role |
 |-----|------|
 | [README.md](README.md) | Primary hireability / portfolio pitch |
-| [docs/HIREABILITY.md](docs/HIREABILITY.md) | Topics, license pointer, doc index |
 | [LICENSE](LICENSE) | MIT terms for this repo |
 
 ---
