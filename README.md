@@ -38,7 +38,7 @@ If you need Platform/SRE or AI-systems ownership with evidence — model serving
 
 ## Discoverability
 
-Topics, licensing, and security for this profile hub: [docs/HIREABILITY.md](docs/HIREABILITY.md) · [LICENSE](LICENSE) · [SECURITY.md](SECURITY.md)
+Licensing and security for this profile hub: [LICENSE](LICENSE) · [SECURITY.md](SECURITY.md)
 
 <details>
 <summary>Easter egg</summary>
