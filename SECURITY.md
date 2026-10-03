@@ -28,7 +28,6 @@ Do not commit credentials, private contact details beyond the published reportin
 
 | Doc | Role |
 |-----|------|
-| [README.md](README.md) | Primary hireability / portfolio pitch |
 | [LICENSE](LICENSE) | MIT terms for this repo |
 
 ---
