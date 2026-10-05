@@ -29,7 +29,3 @@ Do not commit credentials, private contact details beyond the published reportin
 | Doc | Role |
 |-----|------|
 | [LICENSE](LICENSE) | MIT terms for this repo |
-
----
-
-*Tip-cite: main `e79f0293` + PR pending Steward resolve — reporting path and scope only, not a release or readiness signal.*
