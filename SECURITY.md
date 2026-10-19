@@ -10,7 +10,7 @@ Security fixes apply to the current `main` branch of **this** repository.
 
 ### This repository
 
-Do not open a public issue that includes credentials or sensitive personal data. Prefer GitHub's private vulnerability reporting when the repository **Security** tab offers **Report a vulnerability**. If that option is unavailable, email [`tnt850910@aol.com`](mailto:tnt850910@aol.com) with the subject prefix `[SECURITY] T-Py-T` before sharing sensitive details.
+Do not open a public issue that includes credentials or sensitive personal data. Prefer GitHub's private vulnerability reporting when the repository **Security** tab offers **Report a vulnerability**.
 
 Include the affected file, expected behavior, and a minimal description of the concern. The maintainer aims to acknowledge valid reports within a few business days.
 
