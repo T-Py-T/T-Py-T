@@ -22,7 +22,6 @@ it.
 | [talos-cluster-testing](https://github.com/T-Py-T/talos-cluster-testing) | Run two Talos Linux nodes as containers from one Compose file. |
 | [trading-platform-orchestration](https://github.com/T-Py-T/trading-platform-orchestration) | See how a componentized trading platform wires together with Compose, Kubernetes and manifest tests. |
 | [chezmoi-dotfiles](https://github.com/T-Py-T/chezmoi-dotfiles) | Bootstrap a familiar shell, editor and toolchain on macOS, Linux, WSL, Fedora Atomic or a dev container. |
-| [homebrew-tap](https://github.com/T-Py-T/homebrew-tap) | `brew install` my command-line tools and macOS apps. |
 
 ## 🚚 Delivery case studies
 
@@ -31,7 +30,6 @@ it.
 | [eks-jenkins-microservices-cicd](https://github.com/T-Py-T/eks-jenkins-microservices-cicd) | Walk a polyglot workload through Jenkins, Terraform, Trivy and EKS, with Prometheus and Grafana. |
 | [aks-ado-microservices-cicd](https://github.com/T-Py-T/aks-ado-microservices-cicd) | Do the same on Azure: Azure DevOps pipelines, Trivy and environment promotion on AKS. |
 | [Full-Jenkins-CICD-Java-WebApp](https://github.com/T-Py-T/Full-Jenkins-CICD-Java-WebApp) | Follow a Java app from Maven through Nexus, SonarQube, Trivy and Terraform to EKS. |
-| [bigdata-aiops-aws](https://github.com/T-Py-T/bigdata-aiops-aws) | Stand up a streaming-platform reference on EKS with Terraform, Kustomize, Argo CD and Airflow. |
 
 ## 🎮 Reinforcement learning and game agents
 
@@ -41,12 +39,6 @@ it.
 | [starcraft2-ppo-agent](https://github.com/T-Py-T/starcraft2-ppo-agent) | Train a Protoss StarCraft II agent with PPO, process-safe IPC and headless regression tests. |
 | [Carla_RL](https://github.com/T-Py-T/Carla_RL) | Train a DQN in highway-env and serve the policy as a versioned TorchScript service. |
 | [gta5-vision-driving-agent](https://github.com/T-Py-T/gta5-vision-driving-agent) | Dig into a legacy vision-driving experiment: screen capture, an imitation policy and CNN trials. |
-
-## 🔎 Apps
-
-| Project | Try it if you want to… |
-| --- | --- |
-| [RAG-Application](https://github.com/T-Py-T/RAG-Application) | Click through a Next.js neighborhood-search prototype built on synthetic data, with a FastAPI retrieval example. |
 
 ## What I'm into
 
