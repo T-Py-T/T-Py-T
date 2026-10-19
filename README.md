@@ -2,7 +2,7 @@
 
 I build platforms, homelabs and agent tooling in the open. Everything below
 is public and meant to be cloned and tried. Each README explains how to run
-it and is honest about what it doesn't do.
+it.
 
 **Want to try something?** Pick a shelf.
 
